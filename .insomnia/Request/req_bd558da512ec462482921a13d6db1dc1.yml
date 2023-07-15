@@ -1,0 +1,21 @@
+_id: req_bd558da512ec462482921a13d6db1dc1
+type: Request
+parentId: fld_4c9dd92449f14412bafac5498f852e64
+modified: 1689446767994
+created: 1689446737499
+url: https://github.com/hoangbdUET/test-api-docs
+name: Admin Get all tags
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1689446737499
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
