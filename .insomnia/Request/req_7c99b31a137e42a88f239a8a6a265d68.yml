@@ -1,0 +1,28 @@
+_id: req_7c99b31a137e42a88f239a8a6a265d68
+type: Request
+parentId: fld_4c9dd92449f14412bafac5498f852e64
+modified: 1689528400630
+created: 1689450579862
+url: http://localhost:3000/v1/admin/tags
+name: Create tag
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"tenTag": "hehe1112"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1689446737492.75
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,17 +1,17 @@
-_id: req_bd558da512ec462482921a13d6db1dc1
+_id: req_d98d9bdcc3cc4e7fb85348c1a52000f0
 type: Request
 parentId: fld_4c9dd92449f14412bafac5498f852e64
-modified: 1689530064405
-created: 1689446737499
-url: http://localhost:3000/v1/admin/tags?&page_number=1&page_size=3
-name: Admin Get all tags
+modified: 1689530072330
+created: 1689450537298
+url: http://localhost:3000/v1/admin/tags/44
+name: Get tag by id
 description: ""
 method: GET
 body: {}
 parameters: []
 headers: []
 authentication: {}
-metaSortKey: -1689446737499
+metaSortKey: -1689446737449
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true
